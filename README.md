@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=50% height=50% src="https://raw.githubusercontent.com/crevasse-org/Building-Classifier/main/Logo.png)">
+  <img width=50% height=50% src="https://raw.githubusercontent.com/crevasse-org/Building-Classifier/main/Logo.png">
 </p>
 
 Created by Luke Steinbicker <br/>
