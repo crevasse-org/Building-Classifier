@@ -1,0 +1,30 @@
+Run this command to install necessary packages with pip (change first part of file path to work on your machine):
+pip install -r C:\Users\lukes\Desktop\Building-Classifier\requirements.txt
+
+Verify that this snippet is one of the arguments in the predict function in the text_sam.py file (part of segment-geospatial package):
+return_coords = False,
+
+Verify that this snippet is at the end of the predict function in the text_sam.py file (part of segment-geospatial package):
+if return_coords:
+            boxlist = []
+            for box in self.boxes:
+                box = box.cpu().numpy()
+                boxlist.append((box[0], box[1]))
+            return boxlist
+
+It might be necessary to manually add this snippet if the authors of segment-geospatial have not updated the pypi package.
+Finally, because I am too lazy to create a file where you store your parameters, you can manually change the classification.py file based on your needs.
+
+   +--------------+
+   |.------------.|
+   ||            ||
+   ||   That's   ||   Thanks for following these instructions.
+   ||   all!     ||
+   ||            ||
+   |+------------+|
+   +-..--------..-+
+   .--------------.
+  / /============\ \
+ / /==============\ \
+/____________________\
+\____________________/

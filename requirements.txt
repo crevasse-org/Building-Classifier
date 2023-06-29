@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+segment-geospatial
+torch
+transformers
+pillow
