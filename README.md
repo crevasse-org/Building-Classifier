@@ -2,6 +2,7 @@
   <img width=50% height=50% src="https://raw.githubusercontent.com/crevasse-org/Building-Classifier/main/Logo.png">
 </p>
 
+NOTE: THIS REPO IS NOT BEING MAINTAINED. DOWNLOAD FILES FROM THE GOOGLE DRIVE LINK. <br/>
 Created by Luke Steinbicker <br/>
 Contact us at main@crevasse.org to look at our full codebase or download our network. <br/>
 
