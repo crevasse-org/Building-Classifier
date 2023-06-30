@@ -4,7 +4,7 @@
 
 NOTE: THIS REPO IS NOT BEING MAINTAINED. DOWNLOAD FILES FROM THE GOOGLE DRIVE LINK. <br/>
 Created by Luke Steinbicker <br/>
-Contact us at main@crevasse.org to look at our full codebase or download our network. <br/>
+Contact us at main@crevasse.org with any issues. <br/>
 
 ## Building Classifier
 
